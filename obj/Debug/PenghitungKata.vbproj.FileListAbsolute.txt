@@ -1,0 +1,13 @@
+C:\VB.net\PenghitungKata\bin\Debug\PenghitungKata.exe.config
+C:\VB.net\PenghitungKata\bin\Debug\PenghitungKata.exe
+C:\VB.net\PenghitungKata\bin\Debug\PenghitungKata.pdb
+C:\VB.net\PenghitungKata\bin\Debug\PenghitungKata.xml
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.vbproj.AssemblyReference.cache
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.vbproj.SuggestedBindingRedirects.cache
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.Form1.resources
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.Resources.resources
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.vbproj.GenerateResource.cache
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.vbproj.CoreCompileInputs.cache
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.exe
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.xml
+C:\VB.net\PenghitungKata\obj\Debug\PenghitungKata.pdb
